@@ -1,0 +1,4 @@
+c:\users\truong hoang nam\documents\visual studio 2010\Projects\Logging\Logging\bin\Debug\Logging.pdb
+c:\users\truong hoang nam\documents\visual studio 2010\Projects\Logging\Logging\obj\Debug\Logging.pdb
+c:\users\truong hoang nam\documents\visual studio 2010\Projects\Logging\Logging\bin\Debug\Logging.exe
+c:\users\truong hoang nam\documents\visual studio 2010\Projects\Logging\Logging\obj\Debug\Logging.exe
